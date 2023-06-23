@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salehinshohan&label=Profile%20views&color=0e75b6&style=flat" alt="salehinshohan" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://stellar-sunburst-ba4365.netlify.app/](https://stellar-sunburst-ba4365.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://stellar-sunburst-ba4365.netlify.app/](https://flourishing-dieffenbachia-422920.netlify.app/)
 
 - 📝 I regularly write articles on [https://dev.to/devteam/music-monday-what-are-you-listening-to-music-youve-made-edition-31b8](https://dev.to/devteam/music-monday-what-are-you-listening-to-music-youve-made-edition-31b8)
 
