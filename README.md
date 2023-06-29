@@ -1,11 +1,11 @@
 ![logo](https://github.com/SalehinShohan/SalehinShohan/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Shohanur Rahman</h1>
 <h3 align="center">A passionate Full-Stack Developer from Dhaka, Bangladesh.</h3>
-<img align="right" alt="Code" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Code" width="400" height="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salehinshohan&label=Profile%20views&color=0e75b6&style=flat" alt="salehinshohan" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://stellar-sunburst-ba4365.netlify.app/](https://shohan.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://stellar-sunburst-ba4365.netlify.app/](https://salehin-shohan.netlify.app/)
 
 - 📝 I regularly write articles on [https://dev.to/devteam/music-monday-what-are-you-listening-to-music-youve-made-edition-31b8](https://dev.to/devteam/music-monday-what-are-you-listening-to-music-youve-made-edition-31b8)
 
